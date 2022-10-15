@@ -7,7 +7,11 @@
 
 int main(int argc, char** argv)
 {
+                                            
 
+
+
+                                            
 
 int quit=0;
 if( SDL_Init( SDL_INIT_VIDEO ) == -1 )
